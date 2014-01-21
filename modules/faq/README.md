@@ -9,5 +9,6 @@
 
 ## Use
 
-To see your page access http://project_url/faq. You should 
+To see your page access http://project_url/faq. On your backend it's available on the menu
+Content > FAQ or url http://project_url/admin/faq.
 
