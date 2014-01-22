@@ -25,6 +25,7 @@ $lang['faq_category_option']  = '-- no category --';
 //titles
 $lang['faq_index_title']        = "List FAQ's";
 $lang['faq_create_title']       = "Add FAQ";
+$lang['faq_list_title']       = "List FAQs";
 $lang['faq_edit_title']         = "Edit FAQ";
 $lang['faq_category_create_title'] = "Add Category";
 $lang['faq_category_index_title'] = "Categories";
